@@ -18,6 +18,6 @@ You will also see any lint errors in the console.
 
 ## Now you are  Ready Gotta Catch'Em All...
 
-![home-layout](https://github.com/MarioNaad/React-Redux-Course/blob/master/Pokemon%20Pokedex%20with%20React.js%20and%20Redux/readme-files/home.png?raw=true) 
-![search-layout](https://github.com/MarioNaad/React-Redux-Course/blob/master/Pokemon%20Pokedex%20with%20React.js%20and%20Redux/readme-files/search.png?raw=true)
-![trainer-layout](https://github.com/MarioNaad/React-Redux-Course/blob/master/Pokemon%20Pokedex%20with%20React.js%20and%20Redux/readme-files/trainer.png?raw=true)
+![home-layout](https://github.com/MarioNaad/Pokedex-with-React.js-and-Redux/blob/master/readme-files/home.png?raw=true) 
+![search-layout](https://github.com/MarioNaad/Pokedex-with-React.js-and-Redux/blob/master/readme-files/search.png?raw=true)
+![trainer-layout](https://github.com/MarioNaad/Pokedex-with-React.js-and-Redux/blob/master/readme-files/trainer.png?raw=true)
