@@ -1,0 +1,26 @@
+.Badges__buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
+
+.title {
+  color: rgb(66, 75, 87);
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: 400;
+  font-size: 15pt;
+  border-bottom: 1px solid rgb(182, 182, 182);
+}
+
+.description {
+    font-weight: 300;
+    font-size: 12pt;
+    line-height: 1.3;
+    color:#6581A6;
+  }
+
+  .img {
+      max-width:50%;
+      opacity: .3;
+  }

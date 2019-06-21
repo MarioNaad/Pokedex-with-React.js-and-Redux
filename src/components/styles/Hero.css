@@ -1,0 +1,28 @@
+.Badges__hero {
+    width: 100%;
+    padding: 2rem 0;
+    background: url('../../img/pokepath.svg'), linear-gradient(to bottom, rgb(32, 48, 68) 0%, rgb(81, 109, 145) 130%);
+    background-repeat: no-repeat;
+    background-size:  cover;
+    margin-bottom: 1rem;
+  }
+  
+  .Badges__hero>.Badges__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .Badges__container {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+  
+  .Badges_conf-logo {
+    margin-top: -1rem;
+    margin-bottom: -2rem;
+    max-width: 720px ;
+    
+  }

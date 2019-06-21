@@ -1,0 +1,37 @@
+
+
+.Home {
+    width: 100%;
+    min-height: calc(100vh - 60px);
+    background: url('../../img/pokepath.svg'), linear-gradient(to bottom, rgb(32, 48, 68) 0%, rgb(81, 109, 145) 130%);
+    background-repeat: repeat;
+  
+    color: #ffffff;
+  
+    display: flex;
+    align-items: center;
+  }
+  
+  .Home__col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  @media screen and (min-width: 768px) {
+    .Home__col {
+      align-items: flex-start;
+    }
+  }
+
+  .Badges__buttons {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 1rem;
+  }
+
+  .home_logo {
+      display: flex;
+      max-height: 280px;
+  }
